@@ -76,9 +76,6 @@ int main(){
 				}
 			}
 		}
-		if(total == 0){
-			std::cout << "Part 1: " << removed << "\n";
-		}
 		total += removed;
 	}
 
